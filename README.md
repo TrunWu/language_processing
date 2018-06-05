@@ -8,3 +8,6 @@ from kaggle Twitter US Airline Semtimental Analysis Competition
 <br>
 discription: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
+
+# reference
+We can borrow some visualization techniques from these two ipython files
