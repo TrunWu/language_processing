@@ -13,3 +13,4 @@ We can borrow some visualization techniques from these two ipython files
 
 # read data
 link to how to use api to read sqllite data
+https://www.dataquest.io/blog/python-pandas-databases/
